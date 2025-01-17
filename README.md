@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # currency_converter
 
 A new Flutter project.
@@ -17,4 +16,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # Currency-Calc-Flutter
->>>>>>> 191a62160f74a751eb276514a59c997e77e924f2
